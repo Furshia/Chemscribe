@@ -12,8 +12,7 @@ Essentially a "Materials Safety Data Sheet MSDS to Word Maker" by getting its so
   Word Output file:
   <img width="1053" height="584" alt="image" src="https://github.com/user-attachments/assets/d8cbbb10-86e8-4b0f-8567-e390e593ce79" />
 
-
-## Others
-  Chatgpt has been used with this code, this is not fully coded by chatgpt however half of the code currently is AI
-  If this has helped you please star the project.
-  You are welcome to suggest fixes for the AI's code
+## Acknowledgements & Contributions
+- Chatgpt has been used with this code, this is not fully coded by chatgpt however half of the code currently is AI
+- If this project has helped you please star the project ⭐ 
+- You are welcome to suggest fixes for the AI's code
