@@ -2,7 +2,7 @@
 # What does this program do?
 
 Automates the process of getting chemical material safety data sheets (MSDS), it outputs a word file.
-
+Essentially a "Materials Safety Data Sheet MSDS to Word Maker"
 
 
 
